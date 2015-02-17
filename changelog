@@ -25,5 +25,3 @@ v2.0
 - Updated Login & Registration pages (HTML markup changed!)
 - Updated buttons style.
 - Enhanced border-radius consistency
-- Added mailbox: inbox, read, and compose pages
-- Bootstrap & jQuery are now hosted locally
